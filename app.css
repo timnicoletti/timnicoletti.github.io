@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(249, 255, 255);
+    font-family: sans-serif;
+}
+
+p {
+    color: midnightblue;
+    }
+
+h1 {
+    display: inline;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 3.2rem;
+    padding: 0rem 0rem 0rem 4rem;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h3 {
+    color: darkslategray;
+    font-family: sans-serif;
+}
+
+br {
+    border: none;
+}
+
+/* re-style links, maybe even have one style for products and another for certificates */
+
+
+#introLine {
+    font-style: italic;
+}
+
+#whatIam {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color:crimson;
+    font-weight: 600;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+.sectionHead{
+    color: black;
+}
+.school{
+    list-style-type: none;
+    font-size: 0.9rem;
+}
+
